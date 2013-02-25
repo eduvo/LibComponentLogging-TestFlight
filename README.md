@@ -9,7 +9,7 @@
 ## Overview
 
 LibComponentLogging-TestFlight is a simple LibComponentLogging logger implementation
-which redirects logging to TFLog.
+which redirects logging to TFLog. Make sure to include `TestFlight.h` header in your PCH file.
 
 
 ## Related Repositories
